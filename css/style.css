@@ -33,7 +33,7 @@ header#header{
     text-align: center;
 }
 
-header#header>img{
+header#header img{
     width:100%;
 }
 header#header h1#main-header-text{
